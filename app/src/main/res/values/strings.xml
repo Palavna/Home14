@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Home14</string>
+    <string name="Next">Далее</string>
+    <string name="blu">Синий</string>
+    <string name="red">Красный</string>
+    <string name="foto">Фото1</string>
+    <string name="foto1">Фото2</string>
+
+
+    <string-array name="color">
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Фиолетовый</item>
+    </string-array>
+
+    <string-array name="foto">
+        <item>Фото1</item>
+        <item>Фото2</item>
+        <item>Фото3</item>
+        <item>Фото4</item>
+        <item>Фото5</item>
+
+    </string-array>
+
+
+</resources>
